@@ -1,4 +1,3 @@
-import json
 from webchatlib.response import check_response
 
 
